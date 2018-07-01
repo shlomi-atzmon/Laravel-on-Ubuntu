@@ -6,9 +6,9 @@ Laravel Installation and local server configuration for Ubuntu
 ###### 2) Run sudo ./laravel.sh
 
 One must take in consideration prior to script running:
-###### 1) Project name.
-###### 2) Repository path to GitHub.
-###### 3) User name and password of that Repository.
+###### * Project name.
+###### * Repository path to GitHub.
+###### * User name and password of that Repository.
 
 ## The script does the following:
 
